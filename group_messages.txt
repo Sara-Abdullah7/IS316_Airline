@@ -1,2 +1,3 @@
 IS316 - Group 02
 Sara Alohali: Git makes it easier for our group to work together and track changes
+Dania Alajmi : GitHup allows us to manage project updates in an organized way.
